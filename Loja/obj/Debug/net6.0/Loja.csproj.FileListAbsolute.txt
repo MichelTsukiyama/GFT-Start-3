@@ -1,0 +1,5 @@
+C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\Loja.csproj.AssemblyReference.cache
+C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\Loja.AssemblyInfoInputs.cache
+C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\Loja.AssemblyInfo.cs
+C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\Loja.csproj.CoreCompileInputs.cache

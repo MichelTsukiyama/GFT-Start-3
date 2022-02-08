@@ -1,0 +1,15 @@
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\bin\Debug\net6.0\Trabalhando-com-listas.exe
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\bin\Debug\net6.0\Trabalhando-com-listas.deps.json
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\bin\Debug\net6.0\Trabalhando-com-listas.runtimeconfig.json
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\bin\Debug\net6.0\Trabalhando-com-listas.dll
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\bin\Debug\net6.0\ref\Trabalhando-com-listas.dll
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\bin\Debug\net6.0\Trabalhando-com-listas.pdb
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\obj\Debug\net6.0\Trabalhando-com-listas.csproj.AssemblyReference.cache
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\obj\Debug\net6.0\Trabalhando-com-listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\obj\Debug\net6.0\Trabalhando-com-listas.AssemblyInfoInputs.cache
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\obj\Debug\net6.0\Trabalhando-com-listas.AssemblyInfo.cs
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\obj\Debug\net6.0\Trabalhando-com-listas.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\obj\Debug\net6.0\Trabalhando-com-listas.dll
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\obj\Debug\net6.0\ref\Trabalhando-com-listas.dll
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\obj\Debug\net6.0\Trabalhando-com-listas.pdb
+C:\Users\miche\Documents\GitHub\GFT\Trabalhando-com-listas\obj\Debug\net6.0\Trabalhando-com-listas.genruntimeconfig.cache

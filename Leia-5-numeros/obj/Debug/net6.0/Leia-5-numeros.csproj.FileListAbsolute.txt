@@ -1,0 +1,15 @@
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\bin\Debug\net6.0\Leia-5-numeros.exe
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\bin\Debug\net6.0\Leia-5-numeros.deps.json
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\bin\Debug\net6.0\Leia-5-numeros.runtimeconfig.json
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\bin\Debug\net6.0\Leia-5-numeros.dll
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\bin\Debug\net6.0\ref\Leia-5-numeros.dll
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\bin\Debug\net6.0\Leia-5-numeros.pdb
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\obj\Debug\net6.0\Leia-5-numeros.csproj.AssemblyReference.cache
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\obj\Debug\net6.0\Leia-5-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\obj\Debug\net6.0\Leia-5-numeros.AssemblyInfoInputs.cache
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\obj\Debug\net6.0\Leia-5-numeros.AssemblyInfo.cs
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\obj\Debug\net6.0\Leia-5-numeros.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\obj\Debug\net6.0\Leia-5-numeros.dll
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\obj\Debug\net6.0\ref\Leia-5-numeros.dll
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\obj\Debug\net6.0\Leia-5-numeros.pdb
+C:\Users\miche\Documents\GitHub\GFT\Leia-5-numeros\obj\Debug\net6.0\Leia-5-numeros.genruntimeconfig.cache
