@@ -4,12 +4,21 @@ Versão utilizada .NET 6.0.100
 
 ---------------
 
-Teste funcionando: 
-- Leia-5-numeros - removição de diversas variáveis e condições, resumindo a quantidade de linhas do código;
+Teste Calcular dias 
 
-- Trabalhando com listas (faltou a consulta), feita a consulta com LINQ (Método e Query).
+    //Não foi iniciado;
 
-----------------
+- foram criados métodos para separar o nome da data de nascimento, usando o método Split();
+- criado método para calcular a quantidade de dias, utilizando DateTime.Parse() para receber a data em formato de string. E TimeSpan para calcular a diferença da data atual (DateTime.Now) com a data de nascimento da entrada.
+- Criado método para exibir a quantidade de dias que a pessoa viveu.
+
+-------------------------
+
+Teste Leia-5-numeros 
+
+- Remoção de diversas variáveis e condições, reduzindo a quantidade de linhas do código;
+
+------------------
 
 Teste Loja - 
     
@@ -25,12 +34,14 @@ Após refatorar:
 
 ----------------------
 
-Teste Calcular dias 
+Teste Trabalhando com listas
 
-    //Não foi iniciado;
+    //faltou a consulta usando LINQ 
+    
+- Feita a consulta com LINQ (Método e Query).
 
-- foram criados métodos para separar o nome da data de nascimento, usando o método Split();
-- criado método para calcular a quantidade de dias, utilizando DateTime.Parse() para receber a data em formato de string. E TimeSpan para calcular a diferença da data atual (DateTime.Now) com a data de nascimento da entrada.
-- Criado método para exibir a quantidade de dias que a pessoa viveu.
+
+
+
 
 
