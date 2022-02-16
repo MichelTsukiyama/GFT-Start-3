@@ -37,18 +37,19 @@ namespace Loja.Classes
             this.cnpj = cnpj;
         }
  
-        // public string GetLivros()
-        // {
-        //     return this.livros;
-        // }
+        public List<Livro> GetLivros()
+        {
+            return this.livros;
+        }
+
         public void SetLivros(List<Livro> livros)
         {
             this.livros = livros;
         }
-        // public string GetVideoGames()
-        // {
-        //     return this.videoGames;
-        // }
+        public List<VideoGame> GetVideoGames()
+        {
+            return this.videoGames;
+        }
         public void SetVideoGames(List<VideoGame> videoGames)
         {
             this.videoGames = videoGames;
@@ -93,6 +94,5 @@ namespace Loja.Classes
             System.Console.WriteLine($"O patrimonio da loja: {this.nome} é de R$ {patrimonioTotal.ToString("0.0").Replace(",",".")}");
             return patrimonioTotal;
         }
-
     }
 }
