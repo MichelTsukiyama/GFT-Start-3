@@ -1,6 +1,8 @@
+using Loja.Interface;
+
 namespace Loja.Classes
 {
-    public class VideoGame : Produto
+    public class VideoGame : Produto,  IImposto
     {
         private string marca;
         private string modelo;
@@ -12,6 +14,9 @@ namespace Loja.Classes
         }
         public VideoGame(string nome, double preco, int qtd, string marca, string modelo, bool isUsado)
         {
+            base.nome = nome;
+            base.preco = preco;
+            base.qtd = qtd;
             this.marca = marca;
             this.modelo = modelo;
             this.isUsado = isUsado;
@@ -21,7 +26,7 @@ namespace Loja.Classes
         {
             return this.marca;
         }
-        public string SetMarca(string marca)
+        public void SetMarca(string marca)
         {
             this.marca = marca;
         }
@@ -29,7 +34,7 @@ namespace Loja.Classes
         {
             return this.modelo;
         }
-        public string SetModelo(string modelo)
+        public void SetModelo(string modelo)
         {
             this.modelo = modelo;
         }
@@ -37,9 +42,36 @@ namespace Loja.Classes
         {
             return this.isUsado;
         }
-        public bool SetIsUsado(bool isUsado)
+        public void SetIsUsado(bool isUsado)
         {
             this.isUsado = isUsado;
+        }
+
+        public double calculaImposto()
+        {
+            double imposto;
+            if(this.isUsado == true)
+            {
+                imposto = base.preco *  0.25;
+                System.Console.WriteLine($"Imposto {base.nome} {this.modelo} usado, R$ {imposto.ToString("0.0").Replace(",", ".")}.");
+                return imposto;
+                
+            }
+            else
+            {
+                imposto = base.preco * 0.45;
+                System.Console.WriteLine($"Imposto {base.nome} {this.modelo} R$ {imposto.ToString("0.0").Replace(",", ".")}.");
+                return  imposto;
+            }
+        }
+
+        public override string ToString()
+        {
+            string retorno = "";
+            retorno += "Video-game: " + this.modelo + ", ";
+            retorno += "preco: " + base.preco.ToString("0.0").Replace(",",".") + ", ";
+            retorno += "quantidade: " + base.qtd + " em estoque.";
+            return retorno;
         }
     }
 }

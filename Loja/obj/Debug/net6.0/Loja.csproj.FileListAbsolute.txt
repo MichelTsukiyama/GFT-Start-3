@@ -3,3 +3,13 @@ C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\Loja.GeneratedMSBuildE
 C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\Loja.AssemblyInfoInputs.cache
 C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\Loja.AssemblyInfo.cs
 C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\Loja.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\GitHub\GFT\Loja\bin\Debug\net6.0\Loja.exe
+C:\Users\miche\Documents\GitHub\GFT\Loja\bin\Debug\net6.0\Loja.deps.json
+C:\Users\miche\Documents\GitHub\GFT\Loja\bin\Debug\net6.0\Loja.runtimeconfig.json
+C:\Users\miche\Documents\GitHub\GFT\Loja\bin\Debug\net6.0\Loja.dll
+C:\Users\miche\Documents\GitHub\GFT\Loja\bin\Debug\net6.0\ref\Loja.dll
+C:\Users\miche\Documents\GitHub\GFT\Loja\bin\Debug\net6.0\Loja.pdb
+C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\Loja.dll
+C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\ref\Loja.dll
+C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\Loja.pdb
+C:\Users\miche\Documents\GitHub\GFT\Loja\obj\Debug\net6.0\Loja.genruntimeconfig.cache

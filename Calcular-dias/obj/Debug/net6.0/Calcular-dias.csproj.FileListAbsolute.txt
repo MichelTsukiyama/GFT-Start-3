@@ -1,0 +1,15 @@
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\obj\Debug\net6.0\Calcular-dias.csproj.AssemblyReference.cache
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\obj\Debug\net6.0\Calcular-dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\obj\Debug\net6.0\Calcular-dias.AssemblyInfoInputs.cache
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\obj\Debug\net6.0\Calcular-dias.AssemblyInfo.cs
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\obj\Debug\net6.0\Calcular-dias.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\bin\Debug\net6.0\Calcular-dias.exe
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\bin\Debug\net6.0\Calcular-dias.deps.json
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\bin\Debug\net6.0\Calcular-dias.runtimeconfig.json
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\bin\Debug\net6.0\Calcular-dias.dll
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\bin\Debug\net6.0\ref\Calcular-dias.dll
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\bin\Debug\net6.0\Calcular-dias.pdb
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\obj\Debug\net6.0\Calcular-dias.dll
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\obj\Debug\net6.0\ref\Calcular-dias.dll
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\obj\Debug\net6.0\Calcular-dias.pdb
+C:\Users\miche\Documents\GitHub\GFT\Calcular-dias\obj\Debug\net6.0\Calcular-dias.genruntimeconfig.cache

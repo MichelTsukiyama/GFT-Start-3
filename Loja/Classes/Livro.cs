@@ -12,6 +12,9 @@ namespace Loja.Classes
         }
         public Livro(string nome, double preco, int qtd, string autor, string tema, int qtdPag)
         {
+            base.nome = nome;
+            base.preco = preco;
+            base.qtd = qtd;
             this.autor = autor;
             this.tema = tema;
             this.qtdPag = qtdPag;
@@ -21,7 +24,7 @@ namespace Loja.Classes
         {
             return this.autor;
         }
-        public string SetAutor(string autor)
+        public void SetAutor(string autor)
         {
             this.autor = autor;
         }
@@ -29,7 +32,7 @@ namespace Loja.Classes
         {
             return this.tema;
         }
-        public string SetTema(string tema)
+        public void SetTema(string tema)
         {
             this.tema = tema;
         }
@@ -38,9 +41,34 @@ namespace Loja.Classes
         {
             return this.qtdPag;
         }
-        public int SetQtdPag(int qtdPag)
+        public void SetQtdPag(int qtdPag)
         {
             this.qtdPag = qtdPag;
+        }
+
+        public double calculaImposto()
+        {
+            double imposto;
+            if(this.tema == "educativo")
+            {
+                System.Console.WriteLine($"Livro educativo não tem imposto: {base.nome}.");
+                return 0;
+            }
+            else
+            {
+                imposto = base.preco * 0.10;
+                System.Console.WriteLine($"R$ {imposto.ToString("0.0").Replace(",", ".")} de impostos sobre o livro {base.nome}.");
+                return  imposto;
+            }
+        }
+
+        public override string ToString()
+        {
+            string retorno = "";
+            retorno += "Titulo: " + base.nome + ", ";
+            retorno += "preco: " + base.preco.ToString("0.0").Replace(",",".") + ", ";
+            retorno += "quantidade: " + base.qtd + " em estoque.";
+            return retorno;
         }
     }
 }

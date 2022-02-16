@@ -22,3 +22,16 @@ System.Console.WriteLine("");
 System.Console.WriteLine($"Total de pessoas na lista {lista.Count}");
 p1.ListaPessoas(lista);
 
+var consulta1 =
+    from cons in lista
+    where cons.nome == "Jessica"
+    // orderby cons.nome deixei só para lembrar
+    select cons;
+
+System.Console.WriteLine("Consulta LINQ por query: " + string.Join(",", consulta1));
+
+var consulta2 = lista.Where(cons => cons.nome == "Jessica").ToList();
+
+System.Console.WriteLine("Consulta LINQ por método: " + string.Join(",", consulta2));
+
+

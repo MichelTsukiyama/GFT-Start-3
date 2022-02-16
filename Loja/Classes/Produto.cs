@@ -2,9 +2,9 @@ namespace Loja.Classes
 {
     public abstract class Produto
     {
-        private string nome;
-        private double preco;
-        private int qtd;
+        protected string nome;
+        protected double preco;
+        protected int qtd;
 
         public Produto()
         {
@@ -21,7 +21,7 @@ namespace Loja.Classes
         {
             return this.nome;
         }
-        public string SetNome(string nome)
+        public void SetNome(string nome)
         {
             this.nome = nome;
         }
@@ -30,7 +30,7 @@ namespace Loja.Classes
         {
             return this.preco;
         }
-        public double SetPreco(double preco)
+        public void SetPreco(double preco)
         {
             this.preco = preco;
         }
@@ -39,14 +39,9 @@ namespace Loja.Classes
         {
             return this.qtd;
         }
-        public int SetQtd(int qtd)
+        public void SetQtd(int qtd)
         {
             this.qtd = qtd;
         }
-    }
-
-
-
-
-    
+    } 
 }
